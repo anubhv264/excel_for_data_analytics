@@ -8,7 +8,7 @@ Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two d
 
 ## 📂 Project 1: Excel Salary Dashboard  
 **Objective:** Analyze salary trends for data-related job roles to help job seekers make informed decisions. 
-![1_Salary_Dashboard.gif]([https://github.com/user-attachments/assets/bb1e265e-6d28-48bd-9e60-7d0af4d2cc0d](https://github.com/anubhv264/excel_for_data_analytics/tree/main/Project_1-Dashboard))
+![1_Salary_Dashboard]([https://github.com/user-attachments/assets/bb1e265e-6d28-48bd-9e60-7d0af4d2cc0d](https://github.com/anubhv264/excel_for_data_analytics/tree/main/Project_1-Dashboard))
 
 
 🔹 **Key Features:**
