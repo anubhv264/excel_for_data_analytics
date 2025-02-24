@@ -113,7 +113,7 @@ It includes detailed information on:
     ![2_Project_Analysis_Chart2.png](/0_Resources/Images/2_Project_Analysis_Chart2.png)
 
   Graphical Representation of Salary in US vs Other Countries
-  !(/0_Resources/Images/graph2.png)
+  ![graph2.png](/0_Resources/Images/graph2.png)
 
   
 
