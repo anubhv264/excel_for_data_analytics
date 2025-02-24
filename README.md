@@ -1,11 +1,15 @@
-# 📊 Data Analytics Portfolio
+![Project2](https://github.com/user-attachments/assets/f52d5db7-131f-44ea-8c07-7a2735df60f4)# 📊 Data Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two data-driven projects where I explored salary trends, job market insights, and essential skills for data professionals using **Excel, Power Query, PivotTables, DAX, and Power Pivot**. 
+
+
 
 ---
 
 ## 📂 Project 1: Excel Salary Dashboard  
-**Objective:** Analyze salary trends for data-related job roles to help job seekers make informed decisions.
+**Objective:** Analyze salary trends for data-related job roles to help job seekers make informed decisions. 
+![1_Salary_Dashboard.gif](https://github.com/user-attachments/assets/bb1e265e-6d28-48bd-9e60-7d0af4d2cc0d)
+
 
 🔹 **Key Features:**
 - 📊 **Interactive Dashboard**: Visualizes salaries by job title, location, and skills.
@@ -19,8 +23,11 @@ Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two d
 
 ---
 
-## 📂 Project 2: Data Science Job Market Analysis  
-**Objective:** Investigate the impact of skills on salary levels and identify top-paying skills and roles.
+## 📂 Project 2: Data Science Job Market Analysis   
+
+**Objective:** Investigate the impact of skills on salary levels and identify top-paying skills and roles.  
+![Project2](https://github.com/user-attachments/assets/0f7b57e3-a1d2-4cfc-aae6-8bb2942a4205)
+
 
 🔹 **Key Questions Analyzed:**
 - Do more skills lead to better pay? 💰
