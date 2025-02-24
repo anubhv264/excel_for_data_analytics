@@ -112,6 +112,10 @@ It includes detailed information on:
 
     ![2_Project_Analysis_Chart2.png](/0_Resources/Images/2_Project_Analysis_Chart2.png)
 
+  ![Graphical Representation of Salary in US vs Other Countries](graph2.png)
+
+  
+
 #### **🤔 So What**
 
 - These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
