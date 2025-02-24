@@ -21,6 +21,8 @@ Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two d
 - The U.S. leads in salary compensation.
 - Specialized skills correlate with higher pay.
 
+[Checkout my work here](Project_1-Dashboard)
+![Salary Dashboard](https://github.com/anubhv264/excel_for_data_analytics/blob/main/Project_1-Dashboard/Project%201%20Salary%20Dashboard.xlsx)
 ---
 
 ## 📂 Project 2: Data Science Job Market Analysis   
