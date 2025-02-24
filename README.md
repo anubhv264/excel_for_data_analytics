@@ -50,3 +50,7 @@ This project was inspired by **Luke Barousse**, whose **YouTube tutorial** guide
 - **Data visualization** is crucial for understanding job market trends.
 
 📌 This portfolio highlights how **data analytics** can uncover career insights and help professionals navigate the job market. 🚀
+---
+
+## 🔗 Connect with Me
+- **LinkedIn**: [Anubhav Madan](https://www.linkedin.com/in/anubhv264)
