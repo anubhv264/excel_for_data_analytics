@@ -1,4 +1,4 @@
-![Project2](https://github.com/user-attachments/assets/f52d5db7-131f-44ea-8c07-7a2735df60f4)# 📊 Data Analytics Portfolio
+
 
 Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two data-driven projects where I explored salary trends, job market insights, and essential skills for data professionals using **Excel, Power Query, PivotTables, DAX, and Power Pivot**. 
 
