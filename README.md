@@ -7,8 +7,8 @@ Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two d
 ---
 
 ## 📂 Project 1: Excel Salary Dashboard  
-**Objective:** Analyze salary trends for data-related job roles to help job seekers make informed decisions. 
-![1_Salary_Dashboard]([https://github.com/user-attachments/assets/bb1e265e-6d28-48bd-9e60-7d0af4d2cc0d](https://github.com/anubhv264/excel_for_data_analytics/tree/main/Project_1-Dashboard))
+**Objective:** Analyze salary trends for data-related job roles to help job seekers make informed decisions.    
+![1_Salary_Dashboard](https://github.com/anubhv264/excel_for_data_analytics/blob/main/0_Resources/Images/1_Salary_Dashboard.png)
 
 
 🔹 **Key Features:**
@@ -20,9 +20,10 @@ Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two d
 - Senior roles (Data Engineers, Scientists) earn the highest salaries.
 - The U.S. leads in salary compensation.
 - Specialized skills correlate with higher pay.
+  
+Checkout my work here: [Project 1 - Excel Salary Dashboard](https://github.com/anubhv264/excel_for_data_analytics/tree/main/Project_1-Dashboard)
 
-[Checkout my work here](Project_1-Dashboard)
-![Salary Dashboard](https://github.com/anubhv264/excel_for_data_analytics/blob/main/Project_1-Dashboard/Project%201%20Salary%20Dashboard.xlsx)
+
 ---
 
 ## 📂 Project 2: Data Science Job Market Analysis   
@@ -41,6 +42,8 @@ Welcome to my **Data Analytics Portfolio**! 🚀 This repository showcases two d
 - More skills correlate with higher salaries, especially in Senior Data roles.
 - **Python, SQL, and cloud technologies** are the most valuable skills.
 - U.S. roles offer significantly higher salaries compared to other regions.
+
+  Checkout my work here: [Project 2 - Data Science Job Market Analysis](https://github.com/anubhv264/excel_for_data_analytics/tree/main/Project_2-Analysis)
 
 ---
 
